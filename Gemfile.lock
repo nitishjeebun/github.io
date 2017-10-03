@@ -215,6 +215,7 @@ DEPENDENCIES
   github-pages (~> 162)
   jekyll (~> 3.5.2)
   jekyll-feed (~> 0.6)
+  jekyll-theme-cayman
   minima (~> 2.0)
   tzinfo-data
 
